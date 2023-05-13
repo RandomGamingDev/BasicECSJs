@@ -18,7 +18,7 @@ class SceneManager {
 }
 
 class Scene {
-  constructor(objects, startScene, updateScene) {
+  constructor(objects = new Linked.List(), startScene = () => {}, updateScene = () => {}) {
     this.objects = objects;
     this.startScene = startScene;
     this.updateScene = updateScene;
@@ -46,7 +46,7 @@ class Scene {
 }
 
 class GameObject {
-  constructor(start, update) {
+  constructor(start = () => {}, update = () => {}) {
     this.start = start;
     this.update = update;
   }
