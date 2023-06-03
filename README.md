@@ -5,6 +5,6 @@ Simply spawn a `SceneManager` with an Array of `Scene`s and the integer/id point
 
 This library depends on the Linked List implementation from https://github.com/RandomGamingDev/OneWayLinkedListLibJs. To use it you can simply include https://cdn.jsdelivr.net/gh/RandomGamingDev/OneWayLinkedListLibJs/list.js in your HTML file! If you want to you can also just download the file and include it in your HTML file that way.
 
-To use it you can simply include https://cdn.jsdelivr.net/gh/RandomGamingDev/BasicECSJs/ecs.js in your HTML file! If you want to you can also just download the file and include it in your HTML file that way.
+To this library you can simply include https://cdn.jsdelivr.net/gh/RandomGamingDev/BasicECSJs/ecs.js in your HTML file! If you want to you can also just download the file and include it in your HTML file that way.
 
 btw stuff updates so remember to specify a version/commit for your library if you want to use a link and don't want your code to automatically update to the newest version of the library
