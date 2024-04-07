@@ -4,7 +4,7 @@ A basic javascript ECS system, with SceneManagers, Scenes and GameObjects with t
 There are example(s) of how to use the library in [`examples`](https://github.com/RandomGamingDev/BasicECSJs/blob/main/examples)
 
 ## Example
-Here's the example from [`example.cpp`](https://github.com/RandomGamingDev/BasicECSJs/blob/main/examples/basic-example.js)
+Here's the example from [`basic-example.js`](https://github.com/RandomGamingDev/BasicECSJs/blob/main/examples/basic-example.js)
 ```js
 // This example uses the p5.js library
 
