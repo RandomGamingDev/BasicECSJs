@@ -1,6 +1,8 @@
 # BasicECSJs
 A basic javascript ECS system, with SceneManagers, Scenes and GameObjects with their own Start and Update functions. 
 
+<img src="BasicECSJs.png" width="512" />
+
 There are example(s) of how to use the library in [`examples`](https://github.com/RandomGamingDev/BasicECSJs/blob/main/examples)
 
 ## Example
